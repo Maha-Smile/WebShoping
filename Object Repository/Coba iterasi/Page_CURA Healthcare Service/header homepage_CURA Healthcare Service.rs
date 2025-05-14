@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header homepage_CURA Healthcare Service</name>
+   <tag></tag>
+   <elementGuidId>cc94cde6-8d71-4f4d-85d1-03b0e03c4a3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='top']/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>h1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>a26bf394-3f27-4807-bf02-a6face749b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CURA Healthcare Service</value>
+      <webElementGuid>d444431d-77fa-4f12-a2e8-ac3c5d3951f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;text-vertical-center&quot;]/h1[1]</value>
+      <webElementGuid>68bfb98e-c1ee-4280-bede-33be7bb178bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='top']/div/h1</value>
+      <webElementGuid>e3376d21-ae09-41d1-b219-7b47e8c7d557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::h1[1]</value>
+      <webElementGuid>e4402c56-23f6-4282-80ee-d883b7468484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::h1[1]</value>
+      <webElementGuid>552ef6c4-1416-49ad-8828-a8592983c7cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/preceding::h1[1]</value>
+      <webElementGuid>63a37944-1335-42ac-ace7-f48d83f7f41a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/preceding::h1[1]</value>
+      <webElementGuid>05f18cea-ba58-48e9-af91-c2655a95fa4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>db4ccab6-3b2d-4e42-9569-64a51775ecc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'CURA Healthcare Service' or . = 'CURA Healthcare Service')]</value>
+      <webElementGuid>0ab229b9-8bd2-48c1-bf2b-c2688d6b872c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

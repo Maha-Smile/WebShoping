@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Under construction</name>
+   <tag></tag>
+   <elementGuidId>424c78f2-2dc3-4a57-aae1-3fbcc1a33d04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.lead</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='profile']/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Under construction.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5ea39bef-003d-44a7-91fd-e77cf123e0ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lead</value>
+      <webElementGuid>6fb1a033-1b11-4913-8747-2bc6c1ffe58d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Under construction.</value>
+      <webElementGuid>358d199d-92bc-4239-97ff-d0517ab40cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 text-center&quot;]/p[@class=&quot;lead&quot;]</value>
+      <webElementGuid>89256431-614f-41b4-9fc8-3de840a2c18d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='profile']/div/div/div/p</value>
+      <webElementGuid>b0b4b3d9-3671-40c3-b8b8-51133c4eea76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[2]/following::p[1]</value>
+      <webElementGuid>269ba4c8-2aed-412c-bf6c-588a7799a01e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::p[1]</value>
+      <webElementGuid>46737281-a00f-4251-be11-09b35495a130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/preceding::p[1]</value>
+      <webElementGuid>48d76a24-eec2-4f9c-a9d4-e00631922681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::p[2]</value>
+      <webElementGuid>388a1a81-70c0-4b20-a923-717ceb115574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Under construction.']/parent::*</value>
+      <webElementGuid>c41515c7-6af9-4c73-a194-9dbf22c61359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>7772f86c-bf35-4453-b7f2-5258a07c254c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Under construction.' or . = 'Under construction.')]</value>
+      <webElementGuid>9107b73f-ba2c-4997-8be1-09d875690126</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
